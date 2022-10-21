@@ -20,3 +20,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mgaditya-er&show_icons=true&locale=en&layout=compact" alt="mgaditya-er" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mgaditya-er&" alt="mgaditya-er" /></p>
+
+[![@mgaditya's Holopin board](https://holopin.me/mgaditya)](https://holopin.io/@mgaditya)
